@@ -1,0 +1,65 @@
+Proje Adı: 						XXX
+Proje Sahibi:				XXX
+Proje URL: 					WWW
+Proje Tarihi. 					AY.YIL
+Proje ID: 						AYYIL
+
+
+- HOSTİNG: 
+
+	FİRMA BİLGİLERİ
+	
+			PANEL:				PANEL_URL
+			
+			 user:					PANEL_USR
+			 pass:				PANEL_PASS	
+	 
+ 
+ 
+ - FTP
+ 
+			 URL:					FTP_URL
+			 user:					FTP_USR
+			 pass:				FTP_PASS
+	  
+ 
+ 
+ - DB
+ 
+			 db name: 		DB_NAME
+			 user:					DB_USR
+			 pass: 				DB_PASS
+	 
+ 
+ 
+ - SİTE
+ 
+			 user:					ADMIN_USR
+			 pass:				ADMIN_PASSWORD
+	 
+
+	 
+- MAIL
+
+			 user:					DEV_ID
+			 pass:				PASSWORD
+	 
+	 
+	 
+ - DROPBOX
+	 
+			  user:				DEV_ID
+			  pass:				PASSWORD
+
+			  
+			  
+- GOOGLE HESABI 
+	
+			- Web Yöneticisi Araçları 	-> Bağlandı
+			- Analytics 							-> Bağlandı
+			- Maps 									-> Bağlandı
+			- Google +								! AYARLANMADI
+			- Diğer Hizmetler 				! AYARLANMADI	
+				
+			 user: 				DEV_ID
+			 pass:				PASSWORD
